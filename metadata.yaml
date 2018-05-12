@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28169#Memoirs-To-Illustrate-The-History-Of-My-TimeVolume-1
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
 identifiers:
