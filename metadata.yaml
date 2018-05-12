@@ -1,0 +1,45 @@
+_repo: Memoirs-To-Illustrate-The-History-Of-My-TimeVolume-1_28169
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cole, John William
+    deathdate: 1870
+    gutenberg_agent_id: '33176'
+    url: http://www.gutenberg.org/2009/agents/33176
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1814-1830'
+- !lcsh 'France -- History -- Louis Philippe, 1830-1848'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+- !lcsh 'Europe -- Politics and government -- 1815-1848'
+- !lcsh 'France -- Politics and government -- 1830-1848'
+title: 'Memoirs To Illustrate The History Of My Time
+
+  Volume 1'
+url: http://www.gutenberg.org/ebooks/28169
